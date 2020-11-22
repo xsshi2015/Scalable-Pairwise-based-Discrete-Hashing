@@ -1,6 +1,7 @@
 # Scalabe-Pairwise-based-Discrete-Hashing
 
-Please first download gist features of CIFAR10, and then run the file ``test_cifar10.m''.
+Please first download gist features of CIFAR10.
+Then run the file ``test_cifar10.m''.
 ConstructWeight.m constructs a pairwise matrix for single-label dataset;
 ConstructWeightforMultiLabel.m constructs a pairwise matrix for multi-label dataset.
 
