@@ -1,5 +1,5 @@
 # Scalabe-Pairwise-based-Discrete-Hashing
-This codes is the demo of the paper ``A Scalable Optimization Mechanism for Pairwise based Discrete Hashing''.
+The codes are the demo of the paper ``A Scalable Optimization Mechanism for Pairwise based Discrete Hashing''.
 
 Please first download gist features of CIFAR10.
 
